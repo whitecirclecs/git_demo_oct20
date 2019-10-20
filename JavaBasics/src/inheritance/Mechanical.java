@@ -11,6 +11,8 @@ public class Mechanical extends Management {
 		int totalAnnualCompensation = John.annualSalary + John.bonus;
 		System.out.println("Total Annual Compensation of John = $ " + totalAnnualCompensation);
 		John.day("Monday");
+		
+		//Added a new line in Mechanical class
 	}
 
 }
